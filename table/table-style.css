@@ -1,0 +1,20 @@
+@charset "utf-8";
+
+img{
+    width: 200px;
+}
+
+table, th, td{
+    border : solid 3px black;
+    border-collapse: collapse;
+}
+
+th{
+    background-color: #7B788A;
+    padding: 10px;
+}
+
+caption{
+    color: #7c6ae6;
+    font-size: 50px;
+}

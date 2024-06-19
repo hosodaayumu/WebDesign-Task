@@ -1,0 +1,58 @@
+@charset "utf-8";
+h1 {
+   text-align: center; 
+   font-family: 'ゴシック体';
+}
+
+body {
+    font-family: '教科書体';
+    min-width: 700px;
+}
+
+.box {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.item {
+    width: 25%;
+    margin: 10px;
+    background-color: #aaaccc;
+    text-align: center;
+}
+
+h2 {
+    width: 90%;
+    
+}
+
+.img {
+    width: 250px;
+    height: 250px;
+    margin: 0 auto;
+}
+
+.img img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+
+a {
+    width: 30px;
+    border-radius: 40px;
+    margin: 0 auto;
+    padding: 10px;
+    background-color: rgba(9, 6, 98, 0.244);
+    display: flexbox;
+    text-decoration: none;
+}
+
+p {
+    font-size: 15px;
+    width: 90%;
+    text-align: left;
+    padding: 20px
+}
+

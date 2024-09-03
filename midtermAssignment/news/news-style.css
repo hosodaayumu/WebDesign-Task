@@ -1,0 +1,26 @@
+@charset "UTF-8";
+
+
+.news{
+    background-color: rgba(243, 108, 33, 0.5);
+    margin-left: 10%;
+    margin-right: 10%;
+}
+body {
+    background-image: url('img/ドラゴンボール.jpg'); /* 画像のパスを指定 */
+    background-attachment: fixed; /* 背景画像を固定 */
+    background-size: cover; /* 画像を画面全体にフィットさせる */
+    background-position: center; /* 画像の位置を中央に設定 */
+}
+
+h1,p{
+    text-align: center;
+}
+
+p{
+    background-color: green;
+}
+
+.img{
+    text-align: center;
+}

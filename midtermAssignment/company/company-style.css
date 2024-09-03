@@ -1,0 +1,53 @@
+@charset "utf-8";
+
+.pokemon{
+    background-color: rgba(205, 199, 93, 0.721);
+    margin-left: 10%;
+    margin-right: 10%;
+    
+}
+h1{
+    text-align: center;
+    background-color: yellow;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+h2{
+    text-align: center;
+    background-color: azure;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+p{
+    background-color: aliceblue;
+    text-align: center;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+table {
+    border-collapse: collapse;
+    text-align: center;
+    width: 70%;  /* テーブルの幅を小さくします */
+    margin: 0 auto;  /* テーブルを中央揃えにします */
+    border-spacing: 0;
+}
+th, td {
+    border: 1px solid black;
+    padding: 2px;  /* パディングを小さくします */
+    text-align: center;  /* セルの内容を中央揃えにします */
+}
+th {
+    background-color: #ff0000;
+    width: 17%;
+}
+td{
+    background-color: aliceblue;
+}
+
+body {
+    background-image: url('img/pokemon.jpg');
+    /* background-repeat: no-repeat; 画像を繰り返さない */
+}
+.img{
+    text-align: center;
+}

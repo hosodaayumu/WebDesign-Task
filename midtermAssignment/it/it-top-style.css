@@ -1,0 +1,105 @@
+@charset "UTF-8";
+
+.it2{
+    background-color: rgba(205, 199, 93, 0.721);
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+body {
+    background-image: url('img/it.jpg');
+    background-repeat: no-repeat; /*画像を繰り返さない */
+    background-size: cover; /* 画面全体をカバーする */
+}
+
+
+
+h1 {
+    text-align: center;
+    background-color: blue;
+    margin-left: 15%;
+    margin-right: 15%;
+
+}
+
+h2{
+    text-align: center;
+    background-color: aquamarine;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+.it{
+    text-align: center;
+    color: white;
+}
+
+.it ul{
+    padding: -0.5rem;
+    text-align: center;
+    
+}
+
+.it li{
+    display: inline-block;
+}
+
+.it ul li{
+    margin-right: 20px;
+    
+}
+
+p{
+    /* text-align: center; */
+    padding-left: 1rem;
+    color: white;
+}
+
+
+table th,
+table td {
+    padding: 8px;
+}
+
+table,
+table th,
+table td {
+    border: 1px solid black;
+}
+
+table{
+    background-color: cadetblue;
+}
+
+#index{
+    background-image: url(img/it.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed; /*要素の固定*/
+    background-size: cover;
+}
+
+/* .rin{
+    background-color: yellow;
+} */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

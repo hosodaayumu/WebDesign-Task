@@ -1,0 +1,38 @@
+@charset "utf-8";
+
+header {
+    width: 100%;
+    background-color: #ffffff;
+}
+
+/* ul要素の子要素を横並びにし、スタイル調整と均等配置 */
+header ul {
+    display: flex;
+    list-style: none;
+    padding: 0px;
+}
+
+/* li要素のスタイル設定 */
+header ul li {
+    width: 20%;
+    text-align: center;
+}
+
+/* リンクのスタイル設定 */
+header ul li a {
+    display: block;
+    padding: 0.5rem;
+    color: #00552e;
+    text-decoration: none;
+    /* 太字にするプロパティ */
+    font-weight: bold;
+}
+
+
+
+
+
+
+
+
+

@@ -52,3 +52,7 @@ p {
 .img {
     text-align: center;
 }
+
+a:hover {
+    color: red; /* リンクにホバーした時に赤色に変わる */
+}

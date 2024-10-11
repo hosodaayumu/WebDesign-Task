@@ -44,6 +44,14 @@ h3 {
     color: white;
 }
 
+h5{
+    color: white;
+}
+
 p {
     color: white;
+}
+
+a:hover {
+    color: red; /* リンクにホバーした時に赤色に変わる */
 }

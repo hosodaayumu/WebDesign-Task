@@ -3,10 +3,10 @@
 body {
     background-color: black;
 }
-
+/* 
 nav {
     background-color: white;
-}
+} */
 
 
 .container {
@@ -49,8 +49,13 @@ p {
 
 .img {
     text-align: center;
-}
+} 
 
 a:hover {
     color: red; /* リンクにホバーした時に赤色に変わる */
+}
+
+
+a{
+    color: #ffffff;
 }
